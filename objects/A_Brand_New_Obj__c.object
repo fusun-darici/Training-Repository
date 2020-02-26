@@ -152,6 +152,17 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>New_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>New Field</label>
+        <precision>3</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
     <label>A Brand New Obj</label>
     <nameField>
         <label>A Brand New Obj Name</label>
