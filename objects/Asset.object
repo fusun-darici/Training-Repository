@@ -126,6 +126,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
+        <description>Asset Details are explained</description>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
