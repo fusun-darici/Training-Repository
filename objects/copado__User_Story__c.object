@@ -252,6 +252,11 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
+            <field>copado__Environment_Type__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
             <field>copado__Environment__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
@@ -297,6 +302,11 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
+            <field>LastActivityDate</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
             <field>LastModifiedById</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
@@ -308,6 +318,11 @@
         </availableFields>
         <availableFields>
             <field>copado__Last_Compliance_Scan_Date__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>copado__Last_Promotion_Date__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -328,6 +343,11 @@
         </availableFields>
         <availableFields>
             <field>copado__Legal__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>copado__Manual_Step_Required__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -622,6 +642,11 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
+            <field>copado__Environment_Type__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
             <field>copado__Environment__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
@@ -678,6 +703,11 @@
         </availableFields>
         <availableFields>
             <field>copado__Last_Compliance_Scan_Date__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>copado__Last_Promotion_Date__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -1762,7 +1792,7 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
-            <field>copado__Environment__c</field>
+            <field>copado__Environment_Type__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -1818,6 +1848,11 @@
         </availableFields>
         <availableFields>
             <field>copado__Last_Compliance_Scan_Date__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>copado__Last_Promotion_Date__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -1937,17 +1972,7 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
-            <field>copado__Release__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
             <field>copado__Sprint__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
-            <field>copado__Status__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -2128,6 +2153,11 @@
         </availableFields>
         <availableFields>
             <field>copado__Documentation_Complete__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>copado__Environment_Type__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -2522,6 +2552,11 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
+            <field>copado__Environment_Type__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
             <field>copado__Environment__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
@@ -2578,6 +2613,11 @@
         </availableFields>
         <availableFields>
             <field>copado__Last_Compliance_Scan_Date__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>copado__Last_Promotion_Date__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -3653,6 +3693,11 @@
         </availableFields>
         <availableFields>
             <field>copado__Documentation_Complete__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>copado__Environment_Type__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
@@ -5224,6 +5269,18 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>copado__Manual_Step_Required__c</fullName>
+        <defaultValue>false</defaultValue>
+        <deprecated>false</deprecated>
+        <description>If any of the Quality Gates are Manual Steps (Pull Request, Manual Test, or Manual Approval), the story should be marked as &apos;Manual Step Required&apos;.</description>
+        <externalId>false</externalId>
+        <label>Manual Step Required</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>copado__Manual_Tests_Passed__c</fullName>
         <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
@@ -5785,7 +5842,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <description>If checked, the User Story is marked as ready to be promoted. The user story will appear as &apos;Ahead&apos; and available to be selected in the Branch Management and Promotion pages.</description>
         <externalId>false</externalId>
         <inlineHelpText>If checked, the User Story is marked as ready to be promoted. The user story will appear as &apos;Ahead&apos; and available to be selected in the Promotion and Branch Management pages.</inlineHelpText>
-        <label>Promote Change</label>
+        <label>Ready to Promote</label>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
@@ -6228,6 +6285,22 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <columns>LAST_UPDATE</columns>
         <filterScope>Everything</filterScope>
         <label>All</label>
+    </listViews>
+    <listViews>
+        <fullName>copado__Cli_Listview</fullName>
+        <columns>NAME</columns>
+        <columns>copado__User_Story_Title__c</columns>
+        <columns>copado__Status__c</columns>
+        <columns>copado__Project__c</columns>
+        <columns>copado__Org_Credential__c</columns>
+        <columns>CREATED_DATE</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>copado__Status__c</field>
+            <operation>equals</operation>
+            <value>In Progress</value>
+        </filters>
+        <label>Cli Listview</label>
     </listViews>
     <nameField>
         <displayFormat>US-{0000000}</displayFormat>
@@ -7651,20 +7724,19 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <fullName>copado__Add_Apex_Tests</fullName>
         <availability>online</availability>
         <displayType>button</displayType>
-        <encodingKey>UTF-8</encodingKey>
         <hasMenubar>false</hasMenubar>
         <hasScrollbars>true</hasScrollbars>
         <hasToolbar>false</hasToolbar>
         <height>600</height>
         <isResizable>true</isResizable>
-        <linkType>url</linkType>
+        <linkType>page</linkType>
         <masterLabel>Add Apex Tests</masterLabel>
         <openType>newWindow</openType>
+        <page>copado__AddTestClasses</page>
         <position>none</position>
         <protected>false</protected>
         <showsLocation>false</showsLocation>
         <showsStatus>false</showsStatus>
-        <url>/apex/{!IF($Setup.copado__Settings__c.copado__Namespace__c == &apos;none&apos;, &apos;&apos;, $Setup.copado__Settings__c.copado__Namespace__c)}metadataselector?id={!copado__User_Story__c.Id}&amp;mode=ApexTests</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Add_Commits</fullName>
@@ -7676,7 +7748,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <masterLabel>Add Commits</masterLabel>
         <openType>sidebar</openType>
         <protected>false</protected>
-        <url>/apex/{!IF($Setup.copado__Settings__c.copado__Namespace__c=&apos;none&apos;,&apos;&apos;,if(isblank($Setup.copado__Settings__c.copado__Namespace__c),&apos;copado__&apos;,$Setup.copado__Settings__c.copado__Namespace__c))}UserStoryCommitIntermediary?Id={!copado__User_Story__c.Id}&amp;targetPage=UserStorySelectCommits</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}UserStoryCommitIntermediary?Id={!copado__User_Story__c.Id}&amp;targetPage=UserStorySelectCommits</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Add_Metadata</fullName>
@@ -7688,7 +7760,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <masterLabel>Add Metadata</masterLabel>
         <openType>sidebar</openType>
         <protected>false</protected>
-        <url>/apex/{!if($Setup.copado__Settings__c.copado__Namespace__c =&apos;none&apos;,&apos;&apos;,&apos;copado__&apos;)}metadataselector?id={!copado__User_Story__c.Id}&amp;mode=MetaData</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}metadataselector?id={!copado__User_Story__c.Id}&amp;mode=MetaData</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Apex_Test</fullName>
@@ -7711,7 +7783,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <openType>replace</openType>
         <protected>false</protected>
         <requireRowSelection>true</requireRowSelection>
-        <url>/apex/{!if($Setup.copado__Settings__c.copado__Namespace__c =&apos;none&apos;,&apos;&apos;,&apos;copado__&apos;)}UserStoryAssignment</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}UserStoryAssignment</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Commit_Files</fullName>
@@ -7723,7 +7795,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <masterLabel>Commit Changes</masterLabel>
         <openType>replace</openType>
         <protected>false</protected>
-        <url>/apex/{!IF($Setup.copado__Settings__c.copado__Namespace__c=&apos;none&apos;,&apos;&apos;,if(isblank($Setup.copado__Settings__c.copado__Namespace__c),&apos;copado__&apos;,$Setup.copado__Settings__c.copado__Namespace__c))}GitCommitMain?userStoryId={!copado__User_Story__c.Id}&amp;variant={!IF( copado__User_Story__c.copado__Environment_Type__c  = &apos;Scratch Org&apos;, &apos;dxcommit&apos;, &apos;userstorycommit&apos;)}</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}GitCommitMain?userStoryId={!copado__User_Story__c.Id}&amp;variant={!IF( copado__User_Story__c.copado__Environment_Type__c  = &apos;Scratch Org&apos;, &apos;dxcommit&apos;, &apos;userstorycommit&apos;)}</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Copado_DX</fullName>
@@ -7735,7 +7807,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <masterLabel>DX Operations</masterLabel>
         <openType>noSidebar</openType>
         <protected>false</protected>
-        <url>/apex/{!IF( $Setup.copado__Settings__c.copado__Namespace__c != &apos;none&apos;, $Setup.copado__Settings__c.copado__Namespace__c, &apos;&apos;)}dxoperation?id={!copado__User_Story__c.Id}</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}dxoperation?id={!copado__User_Story__c.Id}</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Create_Scratch_Org</fullName>
@@ -7766,7 +7838,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <openType>replace</openType>
         <protected>false</protected>
         <requireRowSelection>true</requireRowSelection>
-        <url>/apex/{!if($Setup.copado__Settings__c.copado__Namespace__c =&apos;none&apos;,&apos;&apos;,&apos;copado__&apos;)}UserStoryImportSelection</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}UserStoryImportSelection</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Manage_Selenium_Tests</fullName>
@@ -7777,7 +7849,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <masterLabel>Manage Selenium Tests</masterLabel>
         <openType>replace</openType>
         <protected>false</protected>
-        <url>/apex/{!if($Setup.copado__Settings__c.copado__Namespace__c =&apos;none&apos;,&apos;&apos;,&apos;copado__&apos;)}ManageSeleniumTesting?usId={!copado__User_Story__c.Id}</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}ManageSeleniumTesting?usId={!copado__User_Story__c.Id}</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Mass_Add_User_Stories</fullName>
@@ -7789,7 +7861,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <openType>replace</openType>
         <protected>false</protected>
         <requireRowSelection>false</requireRowSelection>
-        <url>/apex/{!if($Setup.copado__Settings__c.copado__Namespace__c =&apos;none&apos;,&apos;&apos;,&apos;copado__&apos;)}QuickCreateUserStories?pid={!copado__Project__c.Id}</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}QuickCreateUserStories?pid={!copado__Project__c.Id}</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Mass_Add_User_Stories_Sprint</fullName>
@@ -7801,7 +7873,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <openType>replace</openType>
         <protected>false</protected>
         <requireRowSelection>false</requireRowSelection>
-        <url>/apex/{!if($Setup.copado__Settings__c.copado__Namespace__c =&apos;none&apos;,&apos;&apos;,&apos;copado__&apos;)}QuickCreateUserStories?sid={!copado__Sprint__c.Id}</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}QuickCreateUserStories?sid={!copado__Sprint__c.Id}</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Perform_Validation</fullName>
@@ -7813,7 +7885,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <masterLabel>Validate Changes</masterLabel>
         <openType>sidebar</openType>
         <protected>false</protected>
-        <url>/apex/{!IF($Setup.copado__Settings__c.copado__Namespace__c == &apos;none&apos;, &apos;&apos;, $Setup.copado__Settings__c.copado__Namespace__c)}UserStoryPageWaitingFor?id={!copado__User_Story__c.Id}&amp;type=validation</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}UserStoryPageWaitingFor?id={!copado__User_Story__c.Id}&amp;type=validation</url>
     </webLinks>
     <webLinks>
         <fullName>copado__Pull_Request</fullName>
@@ -7832,7 +7904,19 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <protected>false</protected>
         <showsLocation>false</showsLocation>
         <showsStatus>false</showsStatus>
-        <url>/apex/{!IF($Setup.copado__Settings__c.copado__Namespace__c == &apos;none&apos;, &apos;&apos;, $Setup.copado__Settings__c.copado__Namespace__c)}UserStoryPageWaitingFor?id={!copado__User_Story__c.Id}&amp;type=pullRequest</url>
+        <url>/apex/{!IF(CONTAINS($Action.copado__User_Story__c.New, &apos;copado__&apos;), &apos;copado__&apos;, &apos;&apos;)}UserStoryPageWaitingFor?id={!copado__User_Story__c.Id}&amp;type=pullRequest</url>
+    </webLinks>
+    <webLinks>
+        <fullName>copado__Ready_for_Promotion</fullName>
+        <availability>online</availability>
+        <description>Submits user story for Copado Continuous Delivery</description>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>Submit</masterLabel>
+        <openType>sidebar</openType>
+        <page>copado__UserStoryReadyForPromote</page>
+        <protected>false</protected>
     </webLinks>
     <webLinks>
         <fullName>copado__Run_Compliance_Scan</fullName>
