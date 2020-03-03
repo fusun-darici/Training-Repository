@@ -153,6 +153,16 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>Dev_2_New_Field_1__c</fullName>
+        <externalId>false</externalId>
+        <label>Dev 2 - New Field 1</label>
+        <length>100</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Field_1__c</fullName>
         <displayFormat>A-{0000}</displayFormat>
         <externalId>false</externalId>
