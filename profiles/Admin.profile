@@ -7184,11 +7184,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__User_Story__c.copado__Manual_Step_Required__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__User_Story__c.copado__Manual_Tests_Passed__c</field>
         <readable>true</readable>
     </fieldPermissions>
