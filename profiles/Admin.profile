@@ -1827,10 +1827,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_ReleaseTailService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_ScheduleCronExpressionController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
