@@ -7388,9 +7388,6 @@
         <layout>Contact-Formato de contactos</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ContactPointEmail-Contact Point Email Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>ContactPointPhone-Contact Point Phone Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
