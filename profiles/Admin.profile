@@ -1767,10 +1767,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_CCDFullCycle</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_CCD_CreateMetadataGroupItem</apexClass>
         <enabled>true</enabled>
     </classAccesses>
