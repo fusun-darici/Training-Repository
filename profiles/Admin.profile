@@ -1859,10 +1859,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__UserStoryChangeEventTriggerHandler</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__UserStoryCodeAnalysisRequestController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
