@@ -9137,10 +9137,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>copado__DW_Source</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>copado__DW_Summary</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
