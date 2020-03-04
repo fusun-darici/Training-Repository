@@ -979,10 +979,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__ReleaseDetailService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__ReleaseExt</apexClass>
         <enabled>true</enabled>
     </classAccesses>
