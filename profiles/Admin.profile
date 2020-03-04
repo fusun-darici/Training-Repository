@@ -9169,10 +9169,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>copado__DW_Deployment</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>copado__DW_Intermediary</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
