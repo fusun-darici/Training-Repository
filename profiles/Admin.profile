@@ -415,10 +415,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__DataTemplateObjectResultController</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__DataTemplateSetupExtension</apexClass>
         <enabled>true</enabled>
     </classAccesses>
