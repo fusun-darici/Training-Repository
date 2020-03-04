@@ -255,10 +255,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__CCD_BothPromotionQueueable</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__CCD_CreateMetadataGroupItemExtension</apexClass>
         <enabled>true</enabled>
     </classAccesses>
