@@ -5644,11 +5644,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__Promotion__c.copado__Connection_Behavior__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__Promotion__c.copado__Create_Full_Permission_Sets_Step__c</field>
         <readable>true</readable>
     </fieldPermissions>
