@@ -9165,10 +9165,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>copado__DW_Overview</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>copado__DW_SelectChanges</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
