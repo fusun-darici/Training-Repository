@@ -9145,10 +9145,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>copado__DataTemplateImport</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>copado__DataTemplateObjectResult</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
