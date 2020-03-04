@@ -4404,11 +4404,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__Compliance_Scan_Result__c.copado__Deployment_Step__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__Compliance_Scan_Result__c.copado__Deployment__c</field>
         <readable>true</readable>
     </fieldPermissions>
