@@ -1779,10 +1779,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_DW_SelectChangesExtension</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_DW_SelectDataTemplateExtension</apexClass>
         <enabled>true</enabled>
     </classAccesses>
