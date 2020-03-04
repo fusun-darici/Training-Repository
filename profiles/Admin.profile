@@ -387,10 +387,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__DW_OverviewExtension</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__DW_SelectChangesExtension</apexClass>
         <enabled>true</enabled>
     </classAccesses>
