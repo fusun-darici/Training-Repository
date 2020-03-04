@@ -1943,10 +1943,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__WorkDisplayService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__WorkManager</apexClass>
         <enabled>true</enabled>
     </classAccesses>
