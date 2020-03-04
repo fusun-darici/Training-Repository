@@ -4959,11 +4959,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__Deployment__c.copado__Paused__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__Deployment__c.copado__Promotion__c</field>
         <readable>true</readable>
     </fieldPermissions>
