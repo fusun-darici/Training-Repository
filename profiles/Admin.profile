@@ -319,10 +319,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__ConnectionBehaviorTriggerHelper</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__ConnectionBehaviorUsageInfoController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
