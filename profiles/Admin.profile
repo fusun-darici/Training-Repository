@@ -5374,11 +5374,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__Git_Repository__c.copado__Source_Format__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__Git_Repository__c.copado__Tag_Base_URL__c</field>
         <readable>true</readable>
     </fieldPermissions>
