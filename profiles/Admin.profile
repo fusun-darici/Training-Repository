@@ -1779,10 +1779,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_DataTemplateTaskComponent</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_Encoder</apexClass>
         <enabled>true</enabled>
     </classAccesses>
