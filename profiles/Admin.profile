@@ -4939,11 +4939,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__Deployment__c.copado__Deployment_Type__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__Deployment__c.copado__Deployment_command_sent__c</field>
         <readable>true</readable>
     </fieldPermissions>
