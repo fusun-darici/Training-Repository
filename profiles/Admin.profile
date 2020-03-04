@@ -9884,10 +9884,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>copado__Connection_Behavior__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>copado__Continuous_Integration__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
