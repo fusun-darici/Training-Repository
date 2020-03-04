@@ -1779,10 +1779,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_DW_SourceExtension</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_DW_SummaryExtension</apexClass>
         <enabled>true</enabled>
     </classAccesses>
