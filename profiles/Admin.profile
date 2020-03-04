@@ -4179,11 +4179,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__AuxiliaryObject__c.copado__Default_Text__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__AuxiliaryObject__c.copado__Deployment_Flow__c</field>
         <readable>true</readable>
     </fieldPermissions>
