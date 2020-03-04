@@ -275,10 +275,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__CliSecurityService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__CliSfDataWrapper</apexClass>
         <enabled>true</enabled>
     </classAccesses>
