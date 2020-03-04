@@ -467,10 +467,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__DeploymentInterface</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__DeploymentStatusExtension</apexClass>
         <enabled>true</enabled>
     </classAccesses>
