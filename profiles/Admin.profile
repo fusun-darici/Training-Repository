@@ -1243,10 +1243,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__TestArtifactVersionTrigger</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__TestAttachmentTrigger</apexClass>
         <enabled>true</enabled>
     </classAccesses>
