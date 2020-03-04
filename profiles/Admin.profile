@@ -1951,10 +1951,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__WorkSetService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__WorkSubmitService</apexClass>
         <enabled>true</enabled>
     </classAccesses>
