@@ -9397,10 +9397,6 @@
         <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>copado__ScheduleCopadoScheduledJob</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>copado__ScheduledJobSchedule</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
