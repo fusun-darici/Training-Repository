@@ -6569,11 +6569,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>copado__Step__c.copado__Read_Only__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>copado__Step__c.copado__Run_all_tests__c</field>
         <readable>true</readable>
     </fieldPermissions>
