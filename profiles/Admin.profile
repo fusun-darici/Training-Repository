@@ -1835,10 +1835,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_WorkSetService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_WorkSubmitService</apexClass>
         <enabled>true</enabled>
     </classAccesses>
