@@ -1779,10 +1779,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_DataTemplateImportExtension</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_DataTemplateObjectResultController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
