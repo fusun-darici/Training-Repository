@@ -1767,10 +1767,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__Test_CliProxy</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__Test_ConnectionBehaviorInfoController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
