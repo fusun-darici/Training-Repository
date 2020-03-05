@@ -153,14 +153,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Dev_1_New_Field_1__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>Dev 1 - New Field 1</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
-    <fields>
         <fullName>Dev_1_New_Field_2__c</fullName>
         <externalId>false</externalId>
         <label>Dev 1 - New Field 2</label>
