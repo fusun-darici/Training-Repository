@@ -160,6 +160,16 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+    <fields>
+        <fullName>Dev_1_New_Field_2__c</fullName>
+        <externalId>false</externalId>
+        <label>Dev 1 - New Field 2</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
     <label>A New Object</label>
     <nameField>
         <label>A New Object Name</label>
